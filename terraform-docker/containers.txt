@@ -1,0 +1,2 @@
+grafana-dev-sf2g: 172.17.0.2:3100
+grafana-dev-sv52: 172.17.0.3:3101
